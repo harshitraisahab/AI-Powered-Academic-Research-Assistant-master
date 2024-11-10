@@ -1,0 +1,15 @@
+/venv
+/data
+/AutoAWQ
+/.cache
+colabrequirements.txt
+/__pycache__
+/OnlyPDFs
+/webscrape/__pycache__
+/KeyTakeaway/__pycache__
+/text
+/OCR_Rec
+/Scrape.csv
+/OnlyURL.csv
+/KeyTakeaway/clean_sum.txt
+/KeyTakeaway/cleanTest.txt
